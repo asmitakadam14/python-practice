@@ -8,7 +8,7 @@ sum = a + b + c + d
 print("Total prize is",sum)
 
 if(sum>=200):
-     print("you will get 20% discount")
+     print("you will get 20percent  disscount")
 else:
    print("you can not get discount add some grocary for discount" )
 
